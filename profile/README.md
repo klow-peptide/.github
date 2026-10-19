@@ -13,4 +13,4 @@ We publish what our site is built on, so that anyone can check it.
 
 Found an error? Open an issue in the repository with the source.
 
-[Website](https://klow-peptide.com) · [Editorial policy](https://klow-peptide.com/en/pages/editorial-policy/) · [LinkedIn](https://www.linkedin.com/company/klow-peptide) · [YouTube](https://www.youtube.com/@Peptidelab)
+[Website](https://klow-peptide.com) · [Open data](https://klow-peptide.com/en/pages/open-data/) · [Editorial policy](https://klow-peptide.com/en/pages/editorial-policy/) · [LinkedIn](https://www.linkedin.com/company/klow-peptide) · [YouTube](https://www.youtube.com/@Peptidelab)
